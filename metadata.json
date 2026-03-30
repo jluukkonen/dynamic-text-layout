@@ -1,0 +1,5 @@
+{
+  "name": "Dynamic Text Reflow Engine",
+  "description": "A pixel-based text layout engine rendering on HTML5 Canvas, featuring real-time text wrapping around moving objects.",
+  "requestFramePermissions": []
+}
